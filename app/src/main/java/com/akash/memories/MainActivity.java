@@ -2,13 +2,11 @@ package com.akash.memories;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.akash.memories.login.CreateAccountActivity;
 import com.akash.memories.login.LoginActivity;
 import com.akash.memories.memories.AddMemories;
 import com.google.firebase.auth.FirebaseAuth;
@@ -47,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
         currentUser = mAuth.getCurrentUser();
 
-        if(currentUser != null){
+        if (currentUser != null) {
             startActivity(new Intent(MainActivity.this, AddMemories.class));
             finish();
         }

@@ -83,7 +83,6 @@ public class AddMemories extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(AddMemories.this, CreateMemory.class));
-//                finish();
             }
         });
 
@@ -134,13 +133,5 @@ public class AddMemories extends AppCompatActivity {
                 Log.d(TAG, "onFailure: " + e);
             }
         });
-//        if(mAuth.getCurrentUser() != null){
-//            UserApi.getInstance().setUserId(mAuth.getCurrentUser().getUid());
-//            UserApi.getInstance().setUserName(mAuth.getCurrentUser().getEmail());
-//            Log.d(TAG, "onStart: " + mAuth.getCurrentUser().getEmail() + " " + mAuth.getCurrentUser().getUid() + " " + mAuth.getCurrentUser().getDisplayName());
-//            Log.d(TAG, "onStart: user id : " + UserApi.getInstance().getUserId() + " User Name : " + UserApi.getInstance().getUserName());
-//        }else{
-//            Toast.makeText(this, "current user is null", Toast.LENGTH_SHORT).show();
-//        }
     }
 }

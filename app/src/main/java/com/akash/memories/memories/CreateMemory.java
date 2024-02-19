@@ -47,7 +47,6 @@ public class CreateMemory extends AppCompatActivity {
     private EditText editTextDescription;
     private Button buttonPost;
     private ProgressBar progressBar;
-    private String akash = "Akash";
     private Uri selectedImageUri;
     private FirebaseStorage storage;
     private FirebaseFirestore db;
