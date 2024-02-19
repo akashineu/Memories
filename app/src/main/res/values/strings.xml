@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Memories</string>
+    <string name="memories">MEMORIES</string>
+    <string name="continue_text">Continue</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="signup">Sign up</string>
+    <string name="enter_user_name">Enter Name</string>
+    <string name="get_started">Get Started</string>
+    <string name="user_name">Shrenik Kumar</string>
+    <string name="fun_times_with_friends">Fun Times with Friends</string>
+    <string name="about_memory">Gather your pals for a laughter-filled night! From board games to karaoke showdowns, create lasting memories with shared stories and inside jokes. Let the good times roll with spontaneous adventures, and cherish the joy of friendship that turns ordinary moments into extraordinary escapades!</string>
+    <string name="time_ago">5 min ago</string>
+    <string name="hint_photo">Caption Your Creativity</string>
+    <string name="image_discription">Share the Tale!</string>
+    <string name="submit_text">Lets Polish and Examine 🚀</string>
+    <string name="signout">Signout</string>
+    <string name="add_button">Add Button</string>
+    <string name="memoreis_discription">Open the door to your memories and let the world join in the celebration of your unique and remarkable experiences, creating a shared tapestry of moments that resonate with the human spirit</string>
+    <string name="love">Made with ❤️ in India</string>
+</resources>

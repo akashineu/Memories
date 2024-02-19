@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="overall_padding_25dp">25dp</dimen>
+    <dimen name="card_view_padding_5dp">5dp</dimen>
+    <dimen name="corner_radious_5dp">5dp</dimen>
+    <dimen name="monkey_image_50dp">50dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+    <dimen name="text_size_heading_30sp">30sp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_20sp">20sp</dimen>
+    <dimen name="image_height_180dp">180dp</dimen>
+    <dimen name="card_margin_5dp">5dp</dimen>
+    <item name="letter_spacing" type="dimen" format="float">.11</item>
+</resources>
